@@ -32,7 +32,7 @@ Train and evaluate HICF:
 - To evaluate HICF on Amazon_Book
    - `bash ./examples/Amazon-Book/run_book.sh`
 - To evaluate HICF on Yelp2020
-    - `bash ./examples/Yelp2020/run_yelp.sh`
+    - `bash ./examples/yelp/run_yelp.sh`
 
 <a name="citation"/>
 
