@@ -34,19 +34,6 @@ Train and evaluate HICF:
 - To evaluate HICF on Yelp2020
     - `bash ./examples/Yelp2020/run_yelp.sh`
 
-Train and compare with LightGCN:
- 
-Go to the folder of LGCN at first:
-`cd ./baselines/LGCN/code`
-
-Then,
-- To evaluate LightGCN on Amazon_CD 
-  - `bash ./examples/run_cd.sh`
-- To evaluate LightGCN on Amazon_Book
-  - `bash ./examples/run_book.sh`
-- To evaluate LightGCN on Yelp2020
-  - `bash ./examples/run_yelp.sh`
-
 <a name="citation"/>
 
 ## 4. Citation
