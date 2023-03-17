@@ -6,7 +6,7 @@ This repository is an official PyTorch Implementation for "[Hyperbolic Informati
 **Authors**: Menglin Yang, Zhihao Li, Min Zhou, Jiahong Liu, Irwin King \
 **Codes**: https://github.com/marlin-codes/HICF
 
-Note: this project is built upon [HRCF](https://github.com/marlin-codes/HRCF), [HGCF](https://github.com/layer6ai-labs/HGCF) and [HGCN](https://github.com/HazyResearch/hgcn), [LightGCN](https://github.com/gusye1234/LightGCN-PyTorch). HRCF is also of our work, but we didn't list its results in the HICF report because the HRCF was still under review when we submitted the HICF. We will make a full comparions in an extended version.
+Note: this project is built upon [HRCF](https://github.com/marlin-codes/HRCF), [HGCF](https://github.com/layer6ai-labs/HGCF) and [HGCN](https://github.com/HazyResearch/hgcn), [LightGCN](https://github.com/gusye1234/LightGCN-PyTorch). HRCF is also of our work, but we didn't list its results in the HICF report because the HRCF was still under review when we submitted the HICF. We will make a full comparions in an extended version. By the way, if you would like to list HICF as a baseline, please follow the parameter's setting.
 
 <a name="Environment"/>
 
