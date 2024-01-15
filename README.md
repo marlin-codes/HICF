@@ -1,4 +1,4 @@
-## [HICF: Hyperbolic Informative Graph Collaborative Filtering](https://arxiv.org/abs/2207.09051)
+## [HICF: Hyperbolic Informative Graph Collaborative Filtering [PDF] ](https://arxiv.org/abs/2207.09051)
 
 ## 1. Overview
 This repository is an official PyTorch Implementation for "[Hyperbolic Informative Collaborative Filtering(KDD2022)](https://arxiv.org/abs/2207.09051)"
